@@ -93,3 +93,6 @@ console.log(countBs("BBC"));
 console.log(countChar("kakkerlak", "k"));
 
 console.log(countBChar("BBC"));
+
+
+
